@@ -1,5 +1,5 @@
 - **[PT](#documentação-da-instalação-e-configuração-do-tailscale-em-sistemas-linux)**
-- **[EN](#tailscale-installation-and-configuration-documentation-on-linux-systems)**
+- **[EN](#tailscale-installation-and-configuration-documentation-for-linux-systems)**
 
 ------
 ------
